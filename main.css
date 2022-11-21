@@ -11,8 +11,12 @@
 	You can modify everything after this point.
 */
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Nunito+Sans:wght@300&family=Pridi&family=Raleway:wght@500&family=Ultra&display=swap');
+</style>
+
 a:link, a:visited {
-	color: blue;
+	color: red;
 }
 
 a:focus, a:hover {
@@ -24,6 +28,9 @@ a:focus, a:hover {
 }
 
 body {
+	font-family:'Lora', serif;
+	font-weight: 300;
+	margin-bottom: 1em;
 
 }
 
@@ -64,5 +71,6 @@ p {
 }
 
 #how-does-it-work, #influence, #joke {
+	
 
 }
