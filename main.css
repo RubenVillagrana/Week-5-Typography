@@ -63,11 +63,11 @@ main {
 }
 
 p {
-
+  size: 18px;
 }
 
 #intro {
-
+   margin-bottom: 1em;
 }
 
 #how-does-it-work, #influence, #joke {
